@@ -1,0 +1,28 @@
+Lab2
+
+Thoughts:
+在進入資工系之前就有在使用Github，一直以來也有持續使用，
+不過只限於一些簡單的指令或是用GUI，主要都是commit、push，把github當作備份的工具。
+
+今天的Lab雖然也是很基本的指令，但是也學到了一些新的Github操作，
+像是實驗中用到的fork，原來可以把別人的repo"叉過來"自己這邊。
+還有pull request、merge branch也是我第一次使用的功能。
+
+透過這次Lab，我漸漸能體會到Github不只能作為個人備份自己code的倉庫，
+更是一個能與他人合作開發的工具。(之前也蠻常在上面看看一些bug怎麼解決)
+以後可以不必再利用雲端硬碟或互相傳送code來達成協作，而是可以多多使用方便的Github。
+
+
+Suggestions:
+1. 助教測試時，可以使用與"tyt017"的帳號來操作，
+這樣同學比較不會搞混是fork之前的repo還是fork之後repo。
+
+2.PPT第11頁，personal access token(cont.)，
+在select scope，原本github預設就沒有打勾，但是PPT有用紅色框起來幾個方框，
+這樣一時間會有點搞混是否該勾選。
+
+其餘部分都介紹得蠻清楚的，
+一些小建議提供給助教，
+謝謝老師與助教們用心準備的課程。
+
+
