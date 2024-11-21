@@ -1,26 +1,18 @@
 Lab2
 
 Thoughts:
-今天的Lab中，學到了一些新的Github操作，
-像是實驗中用到的fork，原來可以把別人的repo"叉過來"自己這邊。
-還有pull request、merge branch也是我第一次使用的功能。
+這次學了fork，原來可以把別人的repo"叉過來"自己這邊，
+pull request、merge branch也是我第一次使用的功能。
 
-我漸漸能體會到Github不只能備份自己code，更能與他人合作開發。
-以後可以不必再利用雲端硬碟或互相傳送code來達成協作。
-(之前也蠻常在上面看看一些bug怎麼解決)
-
+我體會到Github不只能備份code，更能與他人合作開發。
+以後可以不必再利用雲端硬碟來達成協作。
 
 Suggestions:
-1. demo使用與"tyt017"不同的帳號來操作，同學比較不會搞混是fork前的repo還是fork後。
-2.PPT p11，在select scope，原本預設就沒有打勾，但PPT有用紅色框起來幾個方框，
-會有點搞混是否該勾選。
-3.老師可以直接叫出cmd示範Git指令給同學看。
-4.希望老師能提到更多Git實作技巧(merge conflict處理、commit message的重要性等)，
-並在Lab中加入練習(for bonus)
-5.希望老師能介紹Github多人協作的流程(一個團隊具體該如何運用Git完成一個專案)。
-6.批改Lab時能給評語(為何給出這樣的成績、demo部分是否全對)。
+1. demo使用與"tyt017"不同的帳號，同學比較不會搞混是fork前的repo還是fork後。
+2.PPT p11 select scopes，本來就沒打勾，但用紅色框起來，不清楚是否勾選。
+3.老師使用cmd示範Git指令給同學看。
+4.老師提到更多Git實作技巧(merge conflict處理等)，並在Lab中加入練習(bonus)
+5.批改Lab時能給評語。
 
-
-謝謝老師與助教們用心準備的課程。
 
 
