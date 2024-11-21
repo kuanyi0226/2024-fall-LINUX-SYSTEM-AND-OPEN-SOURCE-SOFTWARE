@@ -1,0 +1,17 @@
+Lab9
+
+Thoughts:
+做netplan時遇到蠻多困難，卡一段時間，
+原本以為要用上課指令去改config，後來發現用vim即可。
+
+我也有試著打上課學的ifconfig，發現需要install net-tools，
+且安裝一直fail，後來發現是因為我已經改了config，會連不上網。
+
+Suggestions:
+1.PPT中 edit config file，提示用sudo vim。
+2.Lab p9 ethernets打錯字。
+3.demo列出3張圖分別的checkpoint。
+4.Lab講解錄影。
+5.本次上課內容對沒學過網概論的人會有點難懂，老師可以把Lab會用到的講清楚，
+其餘做成補充資料。
+6.上課講解networking management可讓同學打看看或準備操作影片，讓同學更熟悉它。
