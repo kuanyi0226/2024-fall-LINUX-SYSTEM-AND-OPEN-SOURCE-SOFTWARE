@@ -1,0 +1,19 @@
+Lab11
+
+進入ROS，多了許多相關的專有名詞，所以上課時有點聽不懂，
+不過做了Lab之後，就較了解老師教的概念、工具使用。
+Lab遇到最大的困難是PPT上的指令、path有打錯，
+所以一直error，不過最後還是順利解決。
+
+Suggestions:
+*Lab指令寫錯：
+1. p14 --打成–
+2. p16 path error
+3. p18
+(1)rosdep有error(need update)，可提醒同學 
+(2)有path error，可提醒要回到ros2_ws/
+(3)-y打成–y
+4.提醒改完.py後要再打一次前面的command，否則ros2 run時沒有預期結果
+5.講解時多提醒同學本次commands的用途
+6.老師在Public-Subscribe口述的例子可圖示於slide
+7.老師可舉更多具體examples幫助了解ROS
