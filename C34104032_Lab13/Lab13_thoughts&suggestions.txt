@@ -1,4 +1,19 @@
 Lab13
 
+之前有玩Unity，老師介紹3D場景時就很期待這次Lab。
+安裝時處理版本問題花了些時間，還有幾次開不了pygame window(GPU的問題)，
+不過我覺得Lab很有趣，特別是開啟autopilot車會自動回正確位置。
 
 Suggestions:
+老師上課提到-
+1.天氣判斷，那System怎麼判斷天氣的影響?
+2.模擬與現實不一樣 可說說具體哪些方面不一樣
+3.遠端server進階模擬，可作為bonus
+
+4.上課可搭配更多影片介紹
+5.助教可提醒同學安裝時可能的error
+我遇到的-
+(a)需要install carla for python
+(b)Client & Simulator API version需一致
+(c)python”必須”3.7.9(有在課堂提醒但能註記ppt)
+6.註明demo影片是否須包含修改的天氣
