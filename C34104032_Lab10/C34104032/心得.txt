@@ -1,0 +1,15 @@
+Mini Project 2
+
+因為我之前有做一些socket programming的專案，所以無論是老師上課講的還是lab的內容我都能大致理解。
+我認為IPC是個蠻有趣的技術，像是可以試著延伸lab的內容，改成傳遞控制訊號，
+就能實作多人線上遊戲，同步不同玩家的進度。
+
+Suggestions:
+1.老師可以實際搭配執行IPC code來授課，會較易懂、有趣(也可用影片呈現)
+2.老師可介紹更多IPC延伸應用
+3.助教可說明IPC常遇到的錯誤
+4.IPC很有趣，助教可提供額外練習
+5.助教可大致講解連結網址的socket programming code
+6.demo的40分有更明確的評分標準
+
+ps. 已向助教預約1/9實體demo mini project 2，所以沒有附上demo video(助教已同意)
