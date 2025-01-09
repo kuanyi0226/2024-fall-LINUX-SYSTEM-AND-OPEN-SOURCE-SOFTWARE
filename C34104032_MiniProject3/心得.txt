@@ -1,0 +1,22 @@
+Mini Project 3
+
+透過老師的講解及Lab的實踐，我學習到AVP的架構、模擬。
+起初我們試著build environment，但不知是ppt網址錯誤還是下載出錯，
+解壓縮有error、下載好的carla沒有包含lab所需的folders。
+試很久都沒解決，只好用實驗室電腦做。
+感謝老師、助教這學期認真備課，除了linux，還讓我們有機會學習自駕模擬。
+
+Suggestions:
+1.上課-
+a.可提及自動停車模擬和現實的差異、原理一樣?
+b.p25除了planning可稍微介紹其他的
+c.如何因應obstacles改變自駕路徑
+d.多一點code講解
+
+2.Lab-
+a.可稍微說明example video(目前的沒聲音)
+b.提醒同學build environment可能的error
+c.提供更多延伸練習
+
+
+ps. 已於1/9 13:00 demo並解釋完mini project 3，故繳交文件只附上此心得

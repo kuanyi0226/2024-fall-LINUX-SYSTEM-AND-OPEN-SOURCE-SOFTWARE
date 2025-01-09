@@ -65,7 +65,7 @@ int main() {
     bind(server_fd, (struct sockaddr *)&address, sizeof(address));
 
     // Start listening for incoming connections
-    listen(server_fd, 3);
+    listen(server_fd, 3); //at most 3 
 
     // Accept and handle incoming client connections
     while (1) {
